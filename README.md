@@ -245,10 +245,4 @@ end;
 
 
 
-**Користена литература**
-
-1. Википедија: Delphi, Pascal
-2. Онлајн форуми за програмирање со Delphi
-3. Онлајн туторијали за Delphi: https://www.youtube.com/watch?v=8JWLxiOdOzg
-
 
